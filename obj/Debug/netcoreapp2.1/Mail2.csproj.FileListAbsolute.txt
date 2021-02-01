@@ -1,0 +1,11 @@
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\bin\Debug\netcoreapp2.1\Mail2.deps.json
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\bin\Debug\netcoreapp2.1\Mail2.runtimeconfig.json
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\bin\Debug\netcoreapp2.1\Mail2.runtimeconfig.dev.json
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\bin\Debug\netcoreapp2.1\Mail2.dll
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\bin\Debug\netcoreapp2.1\Mail2.pdb
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\obj\Debug\netcoreapp2.1\Mail2.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\obj\Debug\netcoreapp2.1\Mail2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\obj\Debug\netcoreapp2.1\Mail2.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\obj\Debug\netcoreapp2.1\Mail2.AssemblyInfo.cs
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\obj\Debug\netcoreapp2.1\Mail2.dll
+C:\Users\Piotr\Documents\dotnet_projects\Mail2\obj\Debug\netcoreapp2.1\Mail2.pdb
